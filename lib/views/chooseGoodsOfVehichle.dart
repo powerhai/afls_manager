@@ -1,8 +1,9 @@
-import 'package:afls_manager/controls/group_box.dart';
+//import 'package:afls_manager/controls/group_box.dart';
 import 'package:afls_manager/models/Vehichles.dart';
 import 'package:afls_manager/models/position.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
+import 'package:haiser_flutter_lib/group_box.dart';
 
 class ChooseGoodsOfVehichle extends StatefulWidget {
   final List<Vehichle> vehichles;

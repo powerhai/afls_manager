@@ -1,4 +1,4 @@
-import 'package:afls_manager/controls/haiTile.dart';
+import 'package:haiser_flutter_lib/haiTile.dart';
 import 'package:afls_manager/models/Vehichles.dart';
 import 'package:afls_manager/models/position.dart';
 import 'package:flutter/material.dart';
